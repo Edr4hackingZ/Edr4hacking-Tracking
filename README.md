@@ -1,8 +1,11 @@
-# hound 
+# Who Edr4hacking? 
+A programmer who is still in college, is young and wants to help people who have been scammed.
+
+# tracking 
 Hound is a simple and light tool for information gathering and capture exact GPS coordinates
 
-# What is Hound?
-<p>Hound is a tool that can remotely capture the exact GPS coordinates of a target device using a PHP server, and can also grab basic information about the system and ISP. This tool can be very helpful in information gathering. you can get following information of the target device</p>
+# What is Tracking?
+<p>TRACKING is a tool that can remotely capture the exact GPS coordinates of a target device using a PHP server, and can also grab basic information about the system and ISP. This tool can be very helpful in information gathering. you can get following information of the target device</p>
 <ul>
   <li>Longitude</li>
   <li>Latitude</li>
@@ -44,7 +47,7 @@ apt-get -y install php unzip git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/Edr4hackingZ/Houndv1.0.git
+git clone https://github.com/Edr4hackingZ/Edr4hacking-Tracking.git
 cd edr4hacking
 bash edr4hacking.sh
 ```
@@ -52,5 +55,5 @@ bash edr4hacking.sh
 Version: 0.2: Remove Ngrok and update cloudflared tunnel
 
 ###  More Detail Developer <a href="@lzxceu in telegram">Edr4hacking best tools</a>
-<p>Hound is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
+<p>Tracking is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 credit - Chatbot template : Edra202
