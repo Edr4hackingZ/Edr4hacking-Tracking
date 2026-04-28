@@ -12,7 +12,8 @@ printf '          |  ____|  __ \|  __ \| || | | |  | |   /\   / ____| |/ /_   _|
 printf '          | |__  | |  | | |__) | || |_| |__| |  /  \ | |    | ' /  | | |  \| | |  __   \n' 
 printf '          |  __| | |  | |  _  /|__   _|  __  | / /\ \| |    |  <   | | | . ` | | |_ |  \n'
 printf '          | |____| |__| | | \ \   | | | |  | |/ ____ \ |____| . \ _| |_| |\  | |__| |  \n'
-printf '          |______|_____/|_|  \_\  |_| |_|  |_/_/    \_\_____|_|\_\_____|_| \_|\_____|  \n\n'                                                                                
+printf '          |______|_____/|_|  \_\  |_| |_|  |_/_/    \_\_____|_|\_\_____|_| \_|\_____|  \n\n'   
+printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n' 
 printf " \e[1;93m      Tracking v1.0 By edr4hacking\e[0m \n"
 printf " \e[1;92m      www.edr4hacking.id / Instagram @edraaveril \e[0m \n"
 printf "\e[1;90m Hound is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
