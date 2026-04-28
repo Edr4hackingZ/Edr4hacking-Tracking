@@ -1,5 +1,5 @@
 # Who Edr4hacking? 
-A programmer who is still in college, is young and wants to help people who have been scammed.
+A programmer who is still in college, is young and wants to help people who have been scammed..
 
 # tracking 
 Hound is a simple and light tool for information gathering and capture exact GPS coordinates
