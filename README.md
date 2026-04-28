@@ -54,6 +54,6 @@ bash edr4hacking.sh
 ## Change log:
 Version: 0.2: Remove Ngrok and update cloudflared tunnel
 
-###  More Detail Developer <a href="https://www.instagram.com/edraaveril">Klick For More Detail Edr4hacking</a>
+###  More Detail Developer <a href="https://www.instagram.com/edraaveril">KLICK HERE !!!</a>
 <p>Tracking is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 credit - Chatbot template : Edra202
