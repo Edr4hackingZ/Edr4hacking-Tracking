@@ -15,7 +15,7 @@ printf '         ███████ ██████  ██   ██      
 printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n' 
 printf " \e[1;93m      Tracking v1.0 By edr4hacking\e[0m \n"
 printf " \e[1;92m      www.edr4hacking.id / Instagram @edraaveril \e[0m \n"
-printf "\e[1;90m Hound is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
+printf "\e[1;90m Tracking is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
 printf "\n"
 }
 
@@ -113,7 +113,7 @@ php -S 127.0.0.1:8080 > /dev/null 2>&1 &
 sleep 2
 checkfound
 }
-hound() {
+edr4() {
 if [[ -e data.txt ]]; then
 cat data.txt >> targetreport.txt
 rm -rf data.txt
@@ -137,4 +137,4 @@ fi
 
 banner
 dependencies
-hound
+edr4
